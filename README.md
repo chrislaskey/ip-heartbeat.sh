@@ -8,11 +8,6 @@ It works by saving the client machine's `ifconfig` output to a remote server
 on a set invertal (default is every 5 minutes). The ifconfig information is
 saved remotely in a file equivalent to the path: <$IF_TARGET_DIR>/<hostname>.
 
-@author: Chris Laskey
-@source: http://chrislaskey.com
-@version: 1.2.0
-@updated: 2012.07.17
-
 =============================================================================
 Usage
 =============================================================================
@@ -38,3 +33,4 @@ License
 =============================================================================
 The code is released under four clause MIT License. See LICENSE.txt for both
 the license and license commentary.
+ 
